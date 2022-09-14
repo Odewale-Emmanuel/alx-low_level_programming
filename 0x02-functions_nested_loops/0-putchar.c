@@ -8,9 +8,9 @@
  */
  int main(void)
  {
-    char c;
-    c = "_putchar";
+    char stng;
+    stng = "_putchar";
 
-    printf("%c\n",c);
+    printf("%c\n",stng);
     return (0);
  }
