@@ -1,8 +1,0 @@
-#!/bin/bash
-echo ' '
-echo '_____________________Executing Script________________________'
-git add .
-git commit -m "task completed"
-git push
-echo '________________Script Execution Complete!_____________________'
-echo ' '
